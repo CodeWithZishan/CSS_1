@@ -1,23 +1,40 @@
 # Model Portfolio Website
 
-This is a clean and responsive portfolio website for a model, designed using HTML and CSS. The layout includes a modern grid-based design, a video background section, and a mobile-friendly interface.
+A clean and responsive portfolio website for a fashion model, built using HTML and CSS. The design features a modern grid layout, a background video, and a smooth responsive interface for desktop and mobile devices.
 
-## Features
+---
 
-- Responsive layout using CSS Grid
+## 🔍 Project Preview
+
+### 💻 Web/Desktop View
+
+![Web View](./webview.png)
+
+---
+
+## ✨ Features
+
+- Responsive grid-based layout
 - Modern and minimal design
-- Video background integration
+- Background video integration
 - Mobile-friendly with media queries
-- Clean and organized code structure
+- Icon support with Remix Icon
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- Remix Icon (CDN)
+- Remix Icon (via CDN)
 
-## How to Use
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/codewithzishan/model-portfolio.git
+## 📁 Folder Structure
+
+model-portfolio/
+├── index.html
+├── style.css
+├── video.mp4
+├── README.md
+└── webview.png
