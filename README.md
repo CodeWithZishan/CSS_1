@@ -8,14 +8,18 @@ A clean and responsive portfolio website for a fashion model, built using HTML a
 
 ### 💻 Web/Desktop View
 
+---
+
 ![Web View](./MEDIA/webview.png)
 
 ---
+
 ### 📱 Mobile View
 
 ![Mobile View](./MEDIA/mobile.png)
 
 ---
+
 ## ✨ Features
 
 - Responsive grid-based layout
